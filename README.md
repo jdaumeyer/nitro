@@ -1,2 +1,2 @@
-![alt text][logo]
-[logo]: https://github.com/modernTypewritter/Nitro/blob/master/logo2.png "Nitro Logo" 
+![alt text](Nitro/logo2.png)
+##a sans-serif font with sharp edges and perfect curves
