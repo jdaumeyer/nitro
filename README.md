@@ -1,1 +1,2 @@
-[logo]: https://github.com/modernTypewritter/Nitro/logo2.png "Nitro Logo" 
+![alt text][logo]
+[logo]: https://github.com/modernTypewritter/Nitro/blob/master/logo2.png "Nitro Logo" 
